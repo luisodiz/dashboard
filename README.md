@@ -1,2 +1,1 @@
-# dashboard
-Доска вакансий на React Redux
+## Доска вакансий на React Redux
